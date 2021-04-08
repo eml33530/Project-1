@@ -14,10 +14,10 @@ Question 2 - What creates volality in the crypto market and how they move in tan
 
 Question 3 - Crypto vs stocks: Volume and Returns - Do they correlate? (Eric)
 
-![Corr_rtn](Corr_rth.PNG)
-![corr_rtn_heatmap](corr_rtn_heatmap.PNG)
-![Corr_vol](Corr_vol.PNG)
-![corr_vol_heatmap](corr_vol_heatmap.PNG)
+![Corr_rtn](PNG/Corr_rth.PNG)
+![corr_rtn_heatmap](PNG/corr_rtn_heatmap.PNG)
+![Corr_vol](PNG/Corr_vol.PNG)
+![corr_vol_heatmap](PNG/corr_vol_heatmap.PNG)
 
 ## Data to be used: kaggle free api's and other free data source
 
