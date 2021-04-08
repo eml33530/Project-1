@@ -8,11 +8,16 @@
 
 ## Questions to answer:
 
-1 - What coins move in tandem or vise versa
+Question 1 - How does volume relate to cryptocurrency and what can it tell us about price movements? (Lou)
 
-2 - What creates voliatitly in the crypto markets (px movement, volume, etc.) - to be expanded upon
+Question 2 - What creates volality in the crypto market and how they move in tandem? Are any of the selected coins unvalued, hold, overvaled? (Chris)
 
-3 - Crypto Volume by year vs stocks by year vs geographic location
+Question 3 - Crypto vs stocks: Volume and Returns - Do they correlate? (Eric)
+
+![Corr_rtn](Corr_rth.PNG)
+![corr_rtn_heatmap](corr_rtn_heatmap.PNG)
+![Corr_vol](Corr_vol.PNG)
+![corr_vol_heatmap](corr_vol_heatmap.PNG)
 
 ## Data to be used: kaggle free api's and other free data source
 
