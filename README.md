@@ -23,4 +23,3 @@ Question 3 - Crypto vs stocks: Volume and Returns - Do they correlate? (Eric)
 
 ## Rough breakdown of tasks: TBD
 
-project
