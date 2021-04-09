@@ -40,7 +40,7 @@ The part we found interesting was comparing the average return to the  average v
 In order to compare the two asset classes even further, we calculated the correlation. Our findings we relatively static in that crypto currencies were a complete 180 to the stock market in how they move. One interesting thing to note, is that Bitcoin actually traded more like a stock than any other crypto currency and almost identical to GLD. This is something we would like to dive deeper into in future projects.
 
 
-![Corr_rtn](PNG/Corr_rtn.PNG)
+![corr_rtn](PNG/corr_rtn.PNG)
 ![corr_rtn_heatmap](PNG/corr_rtn_heatmap.PNG)
 ![corr_vol](PNG/corr_vol.PNG)
 ![corr_vol_heatmap](PNG/corr_vol_heatmap.PNG)
