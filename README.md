@@ -72,7 +72,7 @@ In order to compare the two asset classes even further, we calculated the correl
 ![corr_vol](PNG/corr_vol.PNG)
 ![corr_vol_heatmap](PNG/corr_vol_heatmap.PNG)
 
-##Conclusion
+## Conclusion:
 
 ### What problems arose?
 
