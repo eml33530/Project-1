@@ -22,3 +22,5 @@ Question 3 - Crypto vs stocks: Volume and Returns - Do they correlate? (Eric)
 ## Data to be used: kaggle free api's and other free data source
 
 ## Rough breakdown of tasks: TBD
+
+project
