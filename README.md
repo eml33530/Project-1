@@ -8,7 +8,34 @@
 
 ## Questions to answer:
 
-Question 1 - How does volume relate to cryptocurrency and what can it tell us about price movements? (Lou)
+## Question 1 - How does volume relate to cryptocurrency and what can it tell us about price movements? (Lou)
+  Volume can affect price in a number of ways. For starters the greater the trading volume of an asset the greater its liquidity. This means that it is easier for traders to buy and sell at favorable prices and the more people trade the more likely it is the the assets price will change. 
+### Price by Volume for Crypto Currencies:
+  From these graphs we are able to see a pattern where spikes in volume lead to spikes in pricing.
+![bitcoin_price_volume](https://user-images.githubusercontent.com/78940231/114241388-1052d300-9957-11eb-916e-37b59650cce2.png)
+![eth_price_volume](https://user-images.githubusercontent.com/78940231/114241396-12b52d00-9957-11eb-91c1-e2e2608c7db5.png)
+![ltc_price_volume](https://user-images.githubusercontent.com/78940231/114241405-15178700-9957-11eb-90dd-cceb4d3e0eb8.png)
+![xrp_price_volume](https://user-images.githubusercontent.com/78940231/114241427-1a74d180-9957-11eb-8ec4-c67db96591e5.png)
+  
+### Correlations for Price and Volume:
+  This correlation map depicts crypto trading volume and closing prices. From this graph we are able to determine that Bitcoin has the strongest correlation between its volume and pricing. 
+![basic_corr](https://user-images.githubusercontent.com/78940231/114241432-1e085880-9957-11eb-8882-d72da18ed0e6.png)
+ 
+ This correlation map depicts crypto prices and trading volumes where the volume is lagging 0-5 days behind. From this map we can see that volume is most strongly correlated to price the day of or the day prior to price. This shows us that crypto volume could be an indicator of price movement but it is not conclusive. 
+     
+      BTC Corr  0 = .77  -1 = .77  -2 = .77   -3 = .77   -4 = .78   -5 = .78   -6 = .77
+      ETH Corr  0 = .57  -1 = .57  -2 = .56   -3 = .55   -4 = .55   -5 = .54   -6 = .53
+      LTC Corr  0 = .42  -1 = .41  -2 = .40   -3 = .39   -4 = .38   -5 = .38   -6 = .37
+      XRP Corr  0 = .28  -1 = .27  -2 = .25   -3 = .25   -4 = .24   -5 = .24   -6 = .23
+![big_corr](https://user-images.githubusercontent.com/78940231/114241519-41cb9e80-9957-11eb-8a02-966bd5fc3312.png)
+### Volume and Price by Month:
+  This graph depicts the the average volume by month over a 5 year span. We can see that volume begins to rise during October/November and peaks in February. 
+![volume_by_month](https://user-images.githubusercontent.com/78940231/114241532-44c68f00-9957-11eb-9eb8-3321d14a719e.png)
+  This graph depicts the average price by month over a 5 year span. It closly follows the same pattern as the previous volume graph. 
+![price_by_month](https://user-images.githubusercontent.com/78940231/114241536-46905280-9957-11eb-9206-283d5d1d0f06.png)
+
+### Conclusion: 
+  From this we are able to see that volume and pricing for cryptocurency are correlated. We are also able to see that Bitcoin has the highest correlation of the crypto currencies we looked at and that it most often sees spikes in price and volume towards the end of the year. From this data we can interpret that the best time to buy Bitcoin is towards the end of the year when volume spikes and the best time to sell is after February when volume drops. 
 
 Question 2 - What creates volality in the crypto market and how they move in tandem? Are any of the selected coins unvalued, hold, overvaled? (Chris)
 
