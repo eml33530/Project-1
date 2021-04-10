@@ -38,6 +38,7 @@
   From this we are able to see that volume and pricing for cryptocurency are correlated. We are also able to see that Bitcoin has the highest correlation of the crypto currencies we looked at and that it most often sees spikes in price and volume towards the end of the year. From this data we can interpret that the best time to buy Bitcoin is towards the end of the year when volume spikes and the best time to sell is after February when volume drops. 
 
 ## Question 2 - What creates volality in the crypto market and how they move in tandem? Are any of the selected coins unvalued, hold, overvaled? (Chris)
+Volatility
 
 ## Question 3 - Crypto vs stocks: Volume and Returns - Do they correlate? (Eric)
 
