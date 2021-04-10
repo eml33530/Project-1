@@ -38,11 +38,34 @@
   From this we are able to see that volume and pricing for cryptocurency are correlated. We are also able to see that Bitcoin has the highest correlation of the crypto currencies we looked at and that it most often sees spikes in price and volume towards the end of the year. From this data we can interpret that the best time to buy Bitcoin is towards the end of the year when volume spikes and the best time to sell is after February when volume drops. 
 
 ## Question 2 - What creates volality in the crypto market and how they move in tandem? Are any of the selected coins unvalued, hold, overvaled? (Chris)
-Volatility
+
+In any instance when we are talking about crypto currencies, we cannot talk about them without mentioning the volatility of the market.  But that is something that everyone can say when talking about cryptocurrencies.  So, going in a different direction at first, I wanted to see, out of the 4 coins we researched, which on is undervalued the most.
+
+                                                  Bitcoin
+![image](https://user-images.githubusercontent.com/74554211/114272805-9cabd700-99e5-11eb-9201-82608653cd07.png)
+Ethereum
+![image](https://user-images.githubusercontent.com/74554211/114272848-c2d17700-99e5-11eb-9c50-7989cf8f0886.png)
+Litecoin
+![image](https://user-images.githubusercontent.com/74554211/114272864-d2e95680-99e5-11eb-8750-f7b9938a13a9.png)
+XRP
+![image](https://user-images.githubusercontent.com/74554211/114272875-e0064580-99e5-11eb-9f1d-11ae94c590e5.png)
+
+Basically, Bitcoin and Ethereum both have a high market cap and a higher valuation.  And when looking at XRP, we see a high market cap, but a low value for each coin.  However, when we examine the Volume to Market Cap ratio for Litecoin, it is very high.  This just means that Litecoin is a very undervalued coin when comparing it to the others.
+
+Now, we can use the Pearson Correlation graph to show just how close each one of these coins open and closing prices are aligned.
+ Bitcoin
+![image](https://user-images.githubusercontent.com/74554211/114273245-45a70180-99e7-11eb-8299-8aecb0c138b1.png)
+                                    Ethereum
+![image](https://user-images.githubusercontent.com/74554211/114273260-59eafe80-99e7-11eb-8098-3801524e0c7a.png)
+                                    Litecoin
+![image](https://user-images.githubusercontent.com/74554211/114273277-6d966500-99e7-11eb-9c71-0f397cd90d91.png)
+                                    XRP
+![image](https://user-images.githubusercontent.com/74554211/114273298-7f780800-99e7-11eb-84a5-471d010102ae.png)
+
 
 ## Question 3 - Crypto vs stocks: Volume and Returns - Do they correlate? (Eric)
 
-Cyrpto Currency vs. the stock market is an interesting topic and one that is quickly becoming mainstream news. We found this topic intriguing, does the stock market and crypto currency correlate? If so, how do they correlate? We decided to put our hypothesis to the test by looking at 4 of the largest ETF indexes (SPY – S&P 500, DIA – Dow Jones Industrial Average, IWM – Russell 2000, GLD – Gold) and 4 of the most prevalent cryptocurrencies (BTC – Bitcoin, ETH – Ethereum, LTE – Litecoin, and XRP – Ripple) and comparing their average returns and the trading volume over the last 5 years. 
+Cyptocurrency vs. the stock market is an interesting topic and one that is quickly becoming mainstream news. We found this topic intriguing, does the stock market and crypto currency correlate? If so, how do they correlate? We decided to put our hypothesis to the test by looking at 4 of the largest ETF indexes (SPY – S&P 500, DIA – Dow Jones Industrial Average, IWM – Russell 2000, GLD – Gold) and 4 of the most prevalent cryptocurrencies (BTC – Bitcoin, ETH – Ethereum, LTE – Litecoin, and XRP – Ripple) and comparing their average returns and the trading volume over the last 5 years. 
 
 
 We started by pulling crypto data from Kaggle.com and stock market data from Alpaca. From there we sifted through the data to calculate the average return, average volume and correlation of these assets. Our findings were conclusive, but still left you scratching your head. 
