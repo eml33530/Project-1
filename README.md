@@ -103,8 +103,14 @@ In order to compare the two asset classes even further, we calculated the correl
 
 ## Conclusion:
 
+We concluded that the stock market does not move in correlation with the crypto markets in terms of volume and returns.
+
 ### What problems arose?
+
+The biggest struggle I faced was with plotting the data with different subsets and scales. IE. Volume (MM) and Return (hundreds).
 
 ### What would we add/ do differently is granted more time? 
 
 ### Any major takeaways?
+
+If granted more time I would like to dive deeper into the relationship with BTC/GLD and why the other crypto currencies move asymmetrically in comparison.
