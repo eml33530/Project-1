@@ -68,7 +68,12 @@ In order to compare the two asset classes even further, we calculated the correl
 
 
 ![corr_rtn](PNG/corr_rtn.PNG)
+
+![corr_rtn](https://user-images.githubusercontent.com/77623394/114255088-2bd2d380-9981-11eb-9cb3-b4e7c25ca5f3.PNG)
 ![corr_rtn_heatmap](PNG/corr_rtn_heatmap.PNG)
+
+![corr_vol](https://user-images.githubusercontent.com/77623394/114255098-38572c00-9981-11eb-99cd-e85b241f1668.PNG)
+
 ![corr_vol](PNG/corr_vol.PNG)
 ![corr_vol_heatmap](PNG/corr_vol_heatmap.PNG)
 
