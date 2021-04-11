@@ -37,7 +37,7 @@
 ### Conclusion: 
   From this we are able to see that volume and pricing for cryptocurency are correlated. We are also able to see that Bitcoin has the highest correlation of the crypto currencies we looked at and that it most often sees spikes in price and volume towards the end of the year. From this data we can interpret that the best time to buy Bitcoin is towards the end of the year when volume spikes and the best time to sell is after February when volume drops. 
 
-## Question 2 - What creates volality in the crypto market and how they move in tandem? Are any of the selected coins unvalued, hold, overvaled? (Chris)
+## Question 2 - What creates volatility in the crypto market and how they move in tandem? Are any of the selected coins undervalued, overvalued? (Chris)
 
 In any instance when we are talking about crypto currencies, we cannot talk about them without mentioning the volatility of the market.  But that is something that everyone can say when talking about cryptocurrencies.  So, going in a different direction at first, I wanted to see, out of the 4 coins we researched, which on is undervalued the most.
 
